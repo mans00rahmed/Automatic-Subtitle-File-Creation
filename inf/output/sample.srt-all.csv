@@ -1,0 +1,3 @@
+speech_recognition,start,end,max_confidence,mean_confidence
+speech,1.25,12.930000000000001,1.0,1.0
+speech,13.25,123.3,0.9970988035202026,0.9911918640136719

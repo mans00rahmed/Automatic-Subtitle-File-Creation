@@ -1,0 +1,3 @@
+speech_recognition,start,end,max_confidence,mean_confidence,recognized_text
+speech,0.25,22.3,0.9866848587989807,0.977154016494751,advertisement
+speech,23.25,27.3,1.0,1.0,ties meant is usually shortened to just add

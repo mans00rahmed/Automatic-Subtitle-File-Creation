@@ -1,0 +1,5 @@
+speech_recognition,start,end,max_confidence,mean_confidence,recognized_text
+speech,3.25,4.3,0.7704368829727173,0.7393321394920349,the next about
+speech,4.89,5.3,0.6185935139656067,0.6185934543609619,hi
+speech,7.25,9.3,0.9045181274414062,0.879953920841217,my mind as breathing and
+speech,26.25,27.3,0.7472481727600098,0.74315345287323,

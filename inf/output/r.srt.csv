@@ -1,0 +1,420 @@
+speech_recognition,start,end,max_confidence,mean_confidence,recognized_text
+speech,4.25,6.3,0.9510266780853271,0.9108797311782837,would you like a drink said
+speech,7.25,10.3,1.0,1.0,esa diet coke please i some lemon just
+speech,10.89,11.3,0.6541825532913208,0.6541825532913208,
+speech,12.25,13.3,0.6974097490310669,0.6871923804283142,
+speech,22.25,24.3,0.9713431596755981,0.9576295614242554,you are thank you
+speech,30.25,33.3,0.9450135827064514,0.9310333728790283,
+speech,39.25,41.3,0.9815519452095032,0.9504656791687012,milk yes please
+speech,43.25,45.3,0.9908164739608765,0.9835612773895264,sugar no thanks
+speech,49.25,51.3,0.981336772441864,0.9694137573242188,that banks
+speech,65.25,86.3,0.9886676669120789,0.9772153496742249,
+speech,89.25,96.3,0.9775133728981018,0.9610996246337891,hello i have a reservation my name's mark rider can you spell that police are y d e r
+speech,97.25,97.92999999999999,0.7104282975196838,0.7004580497741699,for
+speech,98.25,103.3,1.0,1.0,five nights yes that's right can have your passport please just a moment
+speech,104.25,105.3,0.8265984654426575,0.7989692687988281,tehran
+speech,110.25,116.3,0.9999713897705078,0.9998212456703186,due to smoking or nonsmoking room or nonsmoking please
+speech,118.25,131.3,0.9984455704689026,0.9906975030899048,
+speech,133.25,144.3,0.9999985694885254,0.999941349029541,the from the united states mark the west coast san francisco is it nice oh yeah it's a great city are you from london now from cambridge my family live there but i live here in london
+speech,146.25,147.3,0.7550109028816223,0.7062934041023254,
+speech,151.25,153.93,0.982208788394928,0.9630270600318909,
+speech,154.25,155.3,0.9998118281364441,0.9981918334960938,yeah
+speech,156.25,157.3,1.0,1.0,worry
+speech,158.25,161.3,0.8318617939949036,0.8069660663604736,in fine that's great
+speech,164.25,166.3,1.0,0.9999988079071045,darling i love you
+speech,168.25,174.3,0.919194757938385,0.8824279308319092,sorry that's okay your wife mono my daughter she always bones me when i'm traveling
+speech,175.25,184.3,0.896634578704834,0.8456845283508301,i'm not
+speech,185.25,186.3,0.9922614693641663,0.9791761636734009,hallelujah
+speech,187.25,189.3,0.9964175224304199,0.9912117719650269,that's very personal
+speech,190.25,192.3,0.9087561368942261,0.8422361016273499,more do you think
+speech,193.25,199.3,0.9945424795150757,0.9774797558784485,
+speech,200.25,202.3,1.0,1.0,
+speech,203.25,208.3,0.9886791110038757,0.9740985631942749,jack another drink now thanks i have to go now i'm mark a first meetings at ten
+speech,208.89,213.3,0.6464048624038696,0.6464048027992249,
+speech,217.25,225.3,0.8822740912437439,0.8433399796485901,what would you like a cappuccino police regular large large police and can i have an espresso place
+speech,226.25,228.3,1.0,1.0,take away to have here
+speech,229.25,235.3,0.9619945883750916,0.9224938154220581,brownie from me place okay and which is that
+speech,236.25,244.3,1.0,1.0,
+speech,245.25,248.3,0.9999998807907104,0.9999986290931702,thanks mark you're welcome but there's a free table over there
+speech,255.25,256.3,0.6858440637588501,0.6446990370750427,
+speech,258.25,282.3,0.9766539931297302,0.9515478610992432,well okay
+speech,290.25,294.3,0.9990519881248474,0.9931588768959045,keith guess what size is a shirt let's see
+speech,295.25,298.3,0.9411768913269043,0.8960995674133301,what's says do you want a medium
+speech,300.25,306.3,1.0,0.9999962449073792,
+speech,316.25,322.3,1.0,0.9999997019767761,it's fine how much is it thirty four ninety nine do take american express yes sir
+speech,324.25,329.3,0.9970201849937439,0.986876368522644,thank you very much more you're welcome i'm really sorry about the caf s k
+speech,330.25,333.3,1.0,1.0,the meetings at twelve thirty we can take attacks okay
+speech,334.25,343.93,0.9817634224891663,0.9444155097007751,typical
+speech,344.25,345.3,0.8416894674301147,0.7951322793960571,the
+speech,347.25,351.3,0.8779916763305664,0.8288934826850891,what
+speech,352.25,366.3,0.9695134162902832,0.9319002032279968,
+speech,369.25,374.3,0.9145358800888062,0.8805032968521118,
+speech,375.25,376.3,0.8347631096839905,0.8162383437156677,okay
+speech,378.25,379.3,1.0,1.0,don't get a restaurant
+speech,380.25,385.3,0.7482285499572754,0.7205873131752014,well as a new italian restaurant we can go there
+speech,386.25,388.3,0.9410949349403381,0.9101033210754395,taxi
+speech,390.25,407.3,0.999554455280304,0.9969834685325623,clive a big mcleish
+speech,413.25,414.3,0.9140236973762512,0.8649447560310364,he off
+speech,415.25,422.3,0.9874832630157471,0.9721319079399109,do you have birthday cards sorry we've only got postcodes a well just them up and that's ten twenty five
+speech,425.25,430.3,0.8627952337265015,0.818956732749939,have you got the twenty five a ps s
+speech,432.25,435.3,0.9660643339157104,0.9440138339996338,thank you for five
+speech,439.25,450.3,0.9996193647384644,0.9985327124595642,at this is for you feel birthday i bought you a little present
+speech,452.25,453.3,0.959954023361206,0.9273785352706909,the broken
+speech,454.25,456.3,0.9688002467155457,0.932452917098999,it's a mug
+speech,458.25,486.3,0.9979938268661499,0.9934754967689514,
+speech,490.25,493.3,0.9986900687217712,0.9927635788917542,case me where's king street please
+speech,494.25,496.3,0.9937878251075745,0.9868466258049011,sorry i didn't know
+speech,505.25,509.3,0.9975730776786804,0.9870176911354065,excuse me is king street near here king street
+speech,510.25,513.3,0.9999866485595703,0.9998946189880371,they have i don't know exactly where sorry thank you
+speech,519.25,540.3,0.9548054933547974,0.9379060864448547,
+speech,543.25,545.3,0.9999570846557617,0.9996280074119568,
+speech,547.25,555.3,0.996196985244751,0.9864978790283203,relax sally
+speech,556.25,564.3,1.0,1.0,let's ask that man there are no biggie knows he's a tourist just ask him leave okay okay excuse me
+speech,565.25,570.3,0.975957453250885,0.950907826423645,last didn't work king street is sorry i don't live here i'm a tourist
+speech,573.25,577.3,1.0,1.0,that was right okay let's try second on the right
+speech,581.25,598.3,0.995261549949646,0.9881186485290527,okay okay i'm sorry
+speech,599.25,607.3,0.9082556366920471,0.8619464039802551,the evening to have a reservation yes a table for to my name's alley great smoking or nonsmoking nonsmoking please
+speech,608.25,609.3,1.0,1.0,so way please
+speech,611.25,612.3,1.0,1.0,the ready to order
+speech,613.25,622.3,0.9998946189880371,0.9994563460350037,would you like to drink
+speech,623.25,632.3,1.0,1.0,thank you sir thank you
+speech,636.25,639.3,0.9888237118721008,0.9694567918777466,
+speech,640.25,654.3,0.9683651924133301,0.9407511949539185,yes what would you like a dessert yes please what is that tiramisu ice cream of fruit salads fruit salad please and a nothing for me thanks
+speech,657.25,659.3,0.7703152298927307,0.742275595664978,
+speech,662.25,663.3,0.9573504328727722,0.9422716498374939,mark
+speech,664.25,667.3,0.9729730486869812,0.9536290764808655,well to mars my last day
+speech,667.57,670.3,0.7423234581947327,0.7411245703697205,and i think we i mean i
+speech,671.25,680.3,1.0,1.0,the like meeting you and your fruit salad would you like me coffee yes and espresso police the same for me please
+speech,684.25,686.3,0.9484617114067078,0.9212561249732971,sorry mark
+speech,688.25,695.3,0.9599136710166931,0.9277927875518799,one income
+speech,696.25,698.3,0.997765302658081,0.9904235005378723,thank goodness for schools
+speech,700.25,704.3,0.7281287312507629,0.7117058038711548,this little brandy no thank you
+speech,707.25,708.3,1.0,0.9999991059303284,the alley
+speech,709.25,716.3,1.0,0.9999994039535522,i need some time to think about it again or but please tell me before ago
+speech,717.25,725.3,1.0,1.0,can we have a checklist sorry the check the bail mark were in britain remember so her curry have the bill police issa
+speech,725.57,726.3,0.6733763217926025,0.648949146270752,
+speech,730.25,736.3,1.0,0.999998152256012,morning sir good morning can i have my bill please i'm checking out which really see it room for to five
+speech,736.57,737.3,0.7349284291267395,0.7110359072685242,
+speech,738.25,742.3,0.9913211464881897,0.9737910628318787,did you have anything from the mini bar last night yes a mineral water
+speech,747.25,751.3,0.9478862881660461,0.9193537831306458,how would you like to pay american express
+speech,754.25,755.3,0.8291988372802734,0.7851818799972534,
+speech,760.57,762.3,0.6408504247665405,0.6295320391654968,can you sign here please
+speech,765.25,765.6099999999999,0.6240357160568237,0.6240355372428894,
+speech,769.25,772.3,0.9986950755119324,0.9957395792007446,would you like me to call a taxi for you know thanks
+speech,775.25,777.93,0.9941962957382202,0.9843223094940186,you need any help with your luggage know
+speech,778.25,783.3,0.9999167919158936,0.9986117482185364,
+speech,787.25,795.3,0.9511911273002625,0.9237965941429138,okay
+speech,796.25,801.3,0.9990298748016357,0.9947912693023682,the thing is for you to take a taxi to the station and then get the train to the airport no problem
+speech,801.57,803.3,0.7217591404914856,0.7195814251899719,i'll call a taxi
+speech,805.25,824.3,0.9677340388298035,0.9370485544204712,excuse me a change of plan could you call me a taxi please to the station
+speech,831.25,839.3,0.996096670627594,0.9883532524108887,where are you
+speech,840.25,845.3,1.0,1.0,
+speech,846.25,852.3,1.0,1.0,come on you're going to miss your flight wait a minute
+speech,853.25,866.3,1.0,1.0,come to the conference in california am i going to syria a plane's going to leave without alley i asked my boss this morning and he said yes i can go right i don't have your home phone number do worry i'll email it to you tomorrow
+speech,866.89,875.3,0.601827085018158,0.6018271446228027,this is the final call for all passengers on flight be a to eight seven to san francisco please proceed immediately to gate twelve
+speech,876.25,878.3,1.0,1.0,fbi alley and
+speech,879.25,880.3,1.0,1.0,thanks for everything
+speech,880.57,882.3,0.6944899559020996,0.6899142265319824,goodbye mark
+speech,884.25,885.3,0.998778760433197,0.9955620765686035,have a safe trip
+speech,886.25,888.3,1.0,1.0,
+speech,896.25,898.3,0.9935262203216553,0.9833219051361084,good evening ma'am good evening
+speech,899.25,922.3,1.0,1.0,yes mark rider is he family or friend he's a colleague and friend
+speech,923.25,928.3,0.9983235001564026,0.9946725368499756,do you have his phone number yes his mobile is
+speech,930.25,935.3,0.8742865324020386,0.8025140166282654,four zero five six double five seven one eight two
+speech,936.25,939.3,1.0,1.0,yes it is
+speech,940.25,943.3,0.9999758005142212,0.9998285174369812,
+speech,945.25,949.6099999999999,0.9999998807907104,0.9999861121177673,hi hi mark you look great you too
+speech,950.25,959.3,0.9999866485595703,0.9998913407325745,i'm fine how is the flight long eleven hours are you must be really tired me as i couldn't sleep at all the people next to me had a baby with them
+speech,960.25,965.3,1.0,1.0,the time here i need to change my watch seven in the evening three in the morning for me
+speech,966.25,969.93,0.9941526055335999,0.9815675616264343,i'm gonna take you right to the hotel and you could rest for
+speech,970.25,971.3,0.8929591178894043,0.8494015336036682,ah
+speech,972.25,982.3,0.8500992655754089,0.8094614148139954,come on my cars in the parking lot let's go
+speech,985.25,994.3,0.9986540079116821,0.9958757162094116,
+speech,995.25,1000.3,0.9917844533920288,0.9760568737983704,
+speech,1001.25,1002.3,0.9999995231628418,0.9999931454658508,ms grey
+speech,1003.25,1016.3,0.7469223141670227,0.7120209336280823,where's the lift
+speech,1017.25,1023.3,1.0,1.0,
+speech,1026.25,1040.3,1.0,0.9999992847442627,it isn't working and it's very hot in my room i'm sorry ma'am i'll send someone up to look at it right now thank you
+speech,1050.25,1066.3,0.9962158799171448,0.9894013404846191,salad please
+speech,1066.57,1073.3,0.6581448912620544,0.6469264030456543,farmers
+speech,1074.25,1075.3,0.9649331569671631,0.9316283464431763,
+speech,1077.25,1086.3,1.0,1.0,go alley a cappuccino see i remembered well done banks did you sleep well yes very well how are things
+speech,1087.25,1102.3,0.9851544499397278,0.9730725884437561,well today we don't have any free time but tomorrow when the take you to this great little restaurant i know it sounds good and then on wednesday night there's a cocktail party here at the hotel and then a conference dinner and thursday
+speech,1102.57,1112.3,0.6872121095657349,0.6830395460128784,well i'd like to see the bay and the golden gate bridge and i'd like to go shopping this time
+speech,1112.57,1117.3,0.6949167251586914,0.688774585723877,hi mark how you doing i bred i'm fine just fine
+speech,1118.25,1134.3,1.0,1.0,mark told me you very nice but he didn't tell me you are so beautiful
+speech,1136.25,1155.3,1.0,1.0,by
+speech,1156.25,1157.3,0.9718834757804871,0.9526122212409973,
+speech,1159.25,1166.3,1.0,1.0,yes
+speech,1167.25,1176.93,1.0,1.0,and
+speech,1177.25,1185.3,0.9565762877464294,0.9284242987632751,and i like steak with french fries how do you like your steak rare medium well done rare please
+speech,1186.25,1189.3,0.9814633131027222,0.9680114984512329,and to drink could you bring us the wine list place
+speech,1194.25,1196.3,0.9549464583396912,0.9057443737983704,chicken for you man
+speech,1197.25,1206.3,0.988797128200531,0.9722300171852112,excuse me
+speech,1207.25,1214.3,0.9996780157089233,0.9980583190917969,i'm very sorry i'll send it back to the kitchen
+speech,1222.25,1225.3,0.8086819052696228,0.7396606206893921,
+speech,1231.25,1247.3,0.928530752658844,0.8770169615745544,i'll get you a new check thank you
+speech,1252.25,1254.3,1.0,1.0,or checks or thanks
+speech,1257.25,1258.93,0.9611825346946716,0.9465847611427307,
+speech,1259.25,1262.3,1.0,1.0,that was a lovely day and i'm glad you enjoyed it
+speech,1263.25,1268.93,1.0,1.0,
+speech,1269.25,1280.3,0.7491032481193542,0.7185577154159546,sure word how long were you married or three years why did you break up
+speech,1281.25,1282.3,1.0,1.0,lot of reasons
+speech,1283.25,1290.3,1.0,1.0,
+speech,1291.25,1299.3,0.9999632835388184,0.9998049139976501,the together for two years
+speech,1300.25,1305.3,0.9999939203262329,0.9997363090515137,now usual story
+speech,1314.25,1315.3,0.9298940896987915,0.9096556305885315,
+speech,1316.25,1332.3,0.928111732006073,0.9087295532226562,there's a place called fisherman's wharf it's right on the bay there a lot of cafes and bars we could have another cup of coffee fine let's go
+speech,1336.25,1346.3,0.9997186064720154,0.9982755184173584,man how can i help you i want to go shopping where's the best place to go well all the big department stores around union square can you tell me how to get their yes of course
+speech,1346.57,1347.3,0.6659980416297913,0.6654708385467529,
+speech,1351.25,1363.3,0.9787660241127014,0.9630104303359985,out of the hotel and turn left go straight ahead down sutter street turn left at stockton it's the third street on the left union square will be right in front of you you can't miss it thanks
+speech,1365.25,1366.3,0.986064076423645,0.9704577922821045,and good museum
+speech,1366.57,1386.3,0.7080913186073303,0.6952725648880005,how far as it from union square not far it's just a couple of blocks can i walk from the sure it'll take you ten minutes can you show me on the map yes
+speech,1387.25,1405.3,0.9969221949577332,0.9837433695793152,union square is here and the museum is here from union square you go down geary to the end and turn right that's third street go down third and you'll see sf mama on the left what time does it opened it opens at eleven thanks very much have a good day i'm sure you'll love the museum
+speech,1410.25,1411.3,0.9853187799453735,0.9684262871742249,these
+speech,1415.25,1419.3,0.9938228130340576,0.979377269744873,excuse me can you tell me the way to union square hey
+speech,1419.57,1425.3,0.6624016761779785,0.658242404460907,i'm brad
+speech,1427.25,1437.3,1.0,1.0,we met yesterday at the hotel ah yes that's right brat i'm so sorry
+speech,1438.25,1439.3,0.8876542448997498,0.8542747497558594,
+speech,1440.25,1450.3,1.0,1.0,where's mark he's at the hotel he had a meeting i think
+speech,1451.25,1460.3,0.9229359030723572,0.8933967351913452,ali i'm going to take you for a cup of coffee at they'll monaco's they have the best coffee in san francisco and amazing cookies
+speech,1461.25,1476.3,1.0,1.0,
+speech,1487.25,1493.3,0.9962604641914368,0.9907144904136658,can i help you yes i really like this sweater to have it in a medium let's see
+speech,1495.25,1501.3,0.9869764447212219,0.9624061584472656,we have and read in a medium now i want to black just a minute i'll go and check
+speech,1508.25,1515.3,0.9009608626365662,0.8448213934898376,a black medium you want to try it on no thanks i'm sure it'll be fine how much is it forty three thirty eight
+speech,1516.25,1527.3,1.0,1.0,you take mastercard yes of course
+speech,1534.25,1540.3,0.9250324964523315,0.900546133518219,i bought this sweater about half an hour ago yes i remember as our problem
+speech,1541.25,1546.3,1.0,1.0,i've decided it's too big for me what size as a medium so you need a small
+speech,1549.25,1554.3,0.9962760210037231,0.9865174889564514,i'll go and check just a minute
+speech,1559.25,1559.93,0.6724189519882202,0.6622850298881531,
+speech,1560.25,1576.3,1.0,1.0,would you like to exchange it for something else not really good i have a refund no problem do you have the receipt yes
+speech,1578.25,1579.3,0.9950436353683472,0.9890109300613403,hey you are
+speech,1582.25,1584.3,1.0,1.0,he looked great as usual
+speech,1585.25,1598.3,1.0,1.0,what a lovely evening
+speech,1599.25,1604.3,1.0,0.9999997019767761,as the shopping great thanks i'm on
+speech,1605.25,1627.3,1.0,1.0,ali what would you like to drinking like a cocktail at least a margarita or a good idea i'll have one to mark
+speech,1628.25,1630.3,1.0,1.0,this her couple of marguerite it
+speech,1631.25,1633.3,1.0,1.0,the waiter am i
+speech,1634.25,1640.3,0.6864604353904724,0.6567550897598267,tell me about the museum alley what was your favorite painting
+speech,1644.25,1664.3,0.998508632183075,0.9952422380447388,how can i help you do you have any pain killers have a headache i'm sorry we can't give our guess medicine but we can call a doctor for you feel like in there it's okay i don't need a doctor it's just a cold but is there a chemists neither the hutto do you mean a pharmacy sorry that's right a pharmacy sure there's one right across the street think you're welcome
+speech,1669.25,1684.3,1.0,1.0,the help you i have a bad colds us me i can take what symptoms to have i have a headache and a cough do you have a temperature know the exact does your backer know are you allergic to any drugs i'm allergic to penicillin
+speech,1685.25,1701.3,0.8569265007972717,0.8271955847740173,how many to i have to take to every four hours sorry health and every four hours if you don't feel better and twenty four hours you should see a doctor okay thanks how much how they four seventy five please
+speech,1703.25,1705.3,0.9615748524665833,0.940575122833252,thank you you're
+speech,1709.25,1710.3,1.0,1.0,you okay
+speech,1711.25,1715.3,1.0,1.0,cause i had a bad headache this morning but i feel better now
+speech,1716.25,1729.3,0.9999996423721313,0.9999893307685852,what you mean at the party i got kind of angry at brad he was really annoying me oh i think he's very nice yeah women always think so
+speech,1731.25,1734.3,1.0,1.0,my mark pratt's not my type
+speech,1736.25,1740.3,0.9999997615814209,0.9999963641166687,you know my type is
+speech,1741.25,1747.3,0.9704298377037048,0.9422050714492798,lives in san francisco
+speech,1748.25,1776.3,0.9226034879684448,0.9052473306655884,
+speech,1777.25,1779.3,0.8307868838310242,0.7708341479301453,hi alli
+speech,1780.25,1783.3,1.0,1.0,feeling at a much better a good
+speech,1784.25,1798.3,1.0,1.0,and how long's the boat trip
+speech,1799.25,1806.3,0.9999997615814209,0.9999844431877136,well i have to be back here by one i'm expecting an important phone call
+speech,1807.25,1814.3,1.0,1.0,hey it's go
+speech,1814.57,1815.3,0.6805044412612915,0.6695980429649353,
+speech,1818.25,1828.3,0.8147675395011902,0.7435420751571655,and where exactly does about go
+speech,1829.25,1834.3,1.0,0.9999907612800598,
+speech,1835.25,1841.3,0.9993996620178223,0.9974867105484009,can we get anything to eat or drink on the boat newest members that were gonna have to tickets please sure
+speech,1842.25,1843.3,0.8652383089065552,0.82269287109375,two adults
+speech,1844.25,1848.3,0.9916018843650818,0.9721553921699524,forty dollars
+speech,1849.25,1852.3,0.8417345881462097,0.8191120624542236,
+speech,1858.25,1892.3,0.8898990750312805,0.8672903180122375,oh no reason i just wondered on your left you can see the island of alcatraz look can issue a building that used to be the prison but it was closed and nineteen sixty three it's museum
+speech,1893.25,1903.3,0.9346500039100647,0.8945105075836182,
+speech,1906.25,1907.3,0.9993051290512085,0.9969517588615417,this iraq
+speech,1908.25,1912.3,0.9830410480499268,0.9662713408470154,hey excuse me could you take a photo of us please sure
+speech,1919.25,1923.3,0.9657333493232727,0.9404079914093018,
+speech,1932.89,1933.3,0.6288448572158813,0.6288449168205261,
+speech,1936.25,1960.3,0.9590096473693848,0.9224506616592407,
+speech,1961.25,1965.3,0.9999872446060181,0.9999123215675354,can you call this number new york right thanks you're welcome
+speech,1969.25,1974.3,0.9965581297874451,0.9907212853431702,oh sorry
+speech,1976.25,1982.3,0.9999854564666748,0.9998059868812561,york how can i help you hello can i be to lisa formosa please just a moment i'll put you through
+speech,1984.25,1995.3,0.8996943831443787,0.8829591274261475,hi is that lisa now i'm sorry she's not a desk right now can i leave a message please sure tell her alley gray cooled oh cool back in five minutes
+speech,1999.25,2005.3,0.9811893701553345,0.954444169998169,empty new york how can i help you hello can i speak to lisa for most of please just a moment
+speech,2007.25,2011.3,1.0,0.9999953508377075,the lines busy do you want to whole okay i'll hold
+speech,2015.25,2030.3,0.8642497062683105,0.838398814201355,
+speech,2031.25,2037.3,1.0,1.0,to us
+speech,2040.25,2041.3,0.8230701684951782,0.7854942083358765,
+speech,2043.25,2049.3,0.9999983310699463,0.9999783039093018,yes
+speech,2051.25,2053.3,1.0,1.0,really think we have a future together
+speech,2054.25,2085.3,1.0,0.9999994039535522,or something to tell you are not gonna be six thousand miles apart we're only going to be three hundred miles apart what you mean you know the new mtc office it's opening in paris next month yes well i'm going there i'm going to be the marketing manager is that amazing are only be an hour away from you you check
+speech,2086.25,2087.3,1.0,1.0,i'm serious
+speech,2089.25,2095.3,0.9974271655082703,0.9910580515861511,the matter aren't you pleased you don't have very happy yes i am happy it's amazing
+speech,2096.25,2102.61,1.0,1.0,well i'm going to the paris office to i've just heard
+speech,2103.25,2110.3,1.0,1.0,yes
+speech,2111.25,2115.3,0.9991979002952576,0.9954522848129272,or trump
+speech,2116.25,2118.3,1.0,0.9999997019767761,i'm going to be the director in paris
+speech,2119.25,2121.3,1.0,1.0,
+speech,2134.25,2146.3,0.999119222164154,0.9973523020744324,
+speech,2147.25,2151.3,0.9455240368843079,0.9089349508285522,
+speech,2154.25,2158.3,0.9986526966094971,0.9960243701934814,you're from san francisco and you yes i am hello mark
+speech,2159.25,2165.3,0.9749208688735962,0.9583171010017395,it's good to see you again how are you very well did you have a good journey yes find no problems
+speech,2167.25,2183.3,0.9999997615814209,0.9999948740005493,introduce you to the team you've met nicole my personal assistant us we said hello this is jacqueline met rpr director how do you do mark rider how do you do and this is ben what's our designer i mock great to meet you been heard a lot about you really good i hope
+speech,2184.25,2186.3,0.9990780353546143,0.9955752491950989,
+speech,2193.25,2209.3,0.9991707801818848,0.9958751797676086,
+speech,2215.25,2233.3,1.0,1.0,
+speech,2234.25,2236.3,0.9997708201408386,0.9988433122634888,you know we have to keep things the secret
+speech,2237.25,2249.3,0.9854692816734314,0.9639581441879272,no it isn't
+speech,2251.25,2257.3,1.0,1.0,the hotel rooms okay i guess what does not like having my own place i have to find an apartment
+speech,2258.25,2260.3,1.0,1.0,it went to you know
+speech,2263.25,2267.3,0.9645735621452332,0.9429264664649963,do you really want to know
+speech,2268.25,2273.61,1.0,1.0,
+speech,2286.57,2286.9300000000003,0.6059383153915405,0.6059382557868958,the
+speech,2287.25,2291.3,0.987404465675354,0.9631928205490112,
+speech,2296.25,2302.3,0.7530064582824707,0.7065644860267639,never could you help me
+speech,2303.25,2307.3,1.0,1.0,
+speech,2315.25,2329.61,0.9871708750724792,0.9722167253494263,the was about kind afternoon friday
+speech,2330.25,2333.3,0.9428884387016296,0.920749306678772,they do you think you could send me the request by email
+speech,2334.25,2336.3,0.9992678761482239,0.9961844086647034,yes of course
+speech,2337.25,2338.3,0.8751846551895142,0.8155314922332764,hello
+speech,2339.25,2343.3,0.9907817244529724,0.9842594265937805,could you hold a minute mark thank you to call
+speech,2346.25,2348.3,0.9999991655349731,0.9999884963035583,you can see me when he have a moment
+speech,2351.25,2359.3,1.0,0.9999983906745911,started looking for an apartment no i haven't had time yet anyway it's best to get to know paris first yeah it's a big city
+speech,2363.25,2364.3,0.996604323387146,0.9904850721359253,now see
+speech,2366.25,2367.3,0.9999936819076538,0.9998013377189636,see
+speech,2369.25,2375.3,1.0,1.0,mercy beaucoup millions very good my banks that's nearly all the french i know
+speech,2381.25,2382.3,0.9464474320411682,0.9227513074874878,this
+speech,2383.25,2386.3,0.8443170189857483,0.797365128993988,sorry
+speech,2390.25,2399.3,0.9771487712860107,0.9548776745796204,and the people really friendly alec been a lot is amazing with computers and jackson really nice guy
+speech,2400.25,2413.3,1.0,1.0,or jackie's very damning everybody likes him and he has a lovely wife she used to be a pop star when she was young have you heard of is a bit now i'm sorry i haven't she's very pretty
+speech,2414.25,2416.3,0.9839016795158386,0.9490629434585571,ali is very attractive to
+speech,2416.57,2418.3,0.8584483861923218,0.8487534523010254,allie
+speech,2419.25,2421.3,1.0,1.0,yeah i guess
+speech,2422.25,2422.9300000000003,0.8083038330078125,0.7807067632675171,of
+speech,2423.25,2425.3,1.0,1.0,those are very english
+speech,2426.25,2427.3,1.0,1.0,man
+speech,2428.25,2436.3,0.956061601638794,0.9290412068367004,you know today i asked her if i could have a deal and she wanted me to send her an email well the english have their funny way
+speech,2440.25,2445.3,1.0,1.0,hi let me get your drinking thanks i'll have a diet coke
+speech,2454.25,2456.3,0.9999992847442627,0.9999915361404419,where exactly is it
+speech,2458.25,2460.3,0.9869365096092224,0.9577026963233948,i'm sorry i didn't catch that
+speech,2462.25,2463.3,0.7626882791519165,0.7466164231300354,okay
+speech,2465.25,2466.3,1.0,1.0,is it
+speech,2469.25,2470.3,0.8921287655830383,0.8627898693084717,they
+speech,2473.25,2476.3,0.7073180079460144,0.6750556230545044,or what
+speech,2478.25,2483.3,0.9662394523620605,0.9507808685302734,i think i found an apartment how do i get to bellville
+speech,2483.57,2497.61,0.7275071740150452,0.7028598785400391,then take line eleven towards married a dealer where do i get our
+speech,2498.25,2499.3,0.9173030257225037,0.8845991492271423,
+speech,2500.25,2501.3,1.0,1.0,the opposite
+speech,2502.25,2504.3,0.7871733903884888,0.7396062612533569,six i think
+speech,2505.25,2507.3,0.9999831914901733,0.9998018145561218,right i found it on the map
+speech,2508.25,2521.3,1.0,1.0,if you can wait till six i'll give you a lift
+speech,2522.25,2526.3,0.9900733232498169,0.9754371643066406,the bellville so i'm driving that way that's great thanks
+speech,2527.25,2528.3,0.9624782204627991,0.9328619241714478,
+speech,2535.25,2538.61,0.9880191683769226,0.9657868146896362,
+speech,2539.25,2542.3,0.9895836114883423,0.9815483689308167,yes it's easy to just going over
+speech,2543.25,2545.3,0.9714961647987366,0.9443109035491943,mercy madame
+speech,2546.25,2552.3,0.9999493360519409,0.9997227191925049,sorry nicole what did she say she said we can have a look at the flat she's going to wait downstairs banks
+speech,2558.25,2559.3,1.0,1.0,so what are you think
+speech,2560.25,2573.3,0.9997780919075012,0.9990844130516052,and it's on the far flung to pretty there isn't a lift who needs one the stairs or good exercise look there's a great view from here it's also very noisy sure but it has character
+speech,2573.57,2582.3,0.6645706295967102,0.6516242027282715,it's just how i imagine an apartment in paris everything's old including the heating it would be like original them
+speech,2584.25,2595.3,0.8726136088371277,0.8439476490020752,i can't wait to see it yeah
+speech,2596.25,2607.3,0.993802547454834,0.9872666001319885,lovie to buy
+speech,2609.25,2619.3,0.999997615814209,0.9999664425849915,you know she's just taking an interest
+speech,2620.25,2623.3,0.970844030380249,0.9600661396980286,the interest that's nice
+speech,2628.25,2631.3,0.9999488592147827,0.9996041059494019,got a message this morning it's from jack
+speech,2633.25,2634.3,0.948715090751648,0.9055429100990295,jack
+speech,2636.25,2639.3,1.0,1.0,there's a small problem
+speech,2640.25,2643.3,1.0,0.9999997019767761,scott gale out as for her concert this evening
+speech,2643.57,2643.9300000000003,0.6131851077079773,0.6131852269172668,
+speech,2644.25,2645.3,1.0,1.0,after her today
+speech,2645.57,2645.9300000000003,0.6101407408714294,0.6101405620574951,
+speech,2646.25,2648.3,1.0,1.0,by take care of her
+speech,2649.25,2652.3,0.967670738697052,0.9382160305976868,i'd say
+speech,2653.25,2655.3,1.0,1.0,scarlets copy know haven't you been
+speech,2657.25,2663.3,0.9997937083244324,0.998227059841156,sas yeah i'm better in london last year what's she like let's say she's a bit
+speech,2664.25,2691.3,0.9448193907737732,0.8926353454589844,i don't think churches of really her thing how about taking or on a boat trip brilliant and then we can go up the eiffel tower that's a good idea i'm sure she'll love the view and she might fall off
+speech,2692.25,2706.3,1.0,1.0,ben you want to come to
+speech,2707.25,2713.3,0.9999984502792358,0.9999767541885376,sorry alley i'm really busy but i'm sure you'll have an unforgettable meal
+speech,2727.25,2731.3,0.9799631237983704,0.9479624032974243,so scarlet what would you like nothing
+speech,2732.25,2744.3,0.9120316505432129,0.8568635582923889,hey
+speech,2745.25,2752.3,1.0,1.0,no way
+speech,2753.25,2755.3,0.9993889331817627,0.997830331325531,didn't they tell you guys have i'm allergies
+speech,2755.57,2756.3,0.6618180871009827,0.6496645212173462,
+speech,2757.25,2765.3,0.9374133944511414,0.8900386095046997,i'm going to the restroom
+speech,2771.25,2788.3,0.9916274547576904,0.9759556651115417,that was a disastrous morning the boat trip made her feel sick and she wouldn't go up the eiffel tower he against stand heights to pity we didn't just take her shopping she's so spoiled come on she's just a kid really so what are we going to do about lunch should we leave now
+speech,2789.25,2793.3,0.9367741942405701,0.8992224335670471,now hang on i have an idea when we talked to the waiter mission
+speech,2794.25,2798.3,1.0,1.0,think you could possibly do me a favor the it's of course so what would you like
+speech,2809.25,2814.3,0.7511968016624451,0.7168939113616943,more wine only no thanks
+speech,2814.57,2815.3,0.6277015209197998,0.6242644786834717,
+speech,2816.25,2817.3,0.9353390336036682,0.8889602422714233,was
+speech,2819.25,2824.3,0.9850229620933533,0.9713453054428101,but that an order anything
+speech,2828.25,2829.3,0.8804423213005066,0.8714151978492737,hey
+speech,2830.25,2831.3,0.9999784231185913,0.9996468424797058,margarita
+speech,2840.25,2843.3,1.0,1.0,that was a great concert last night scarlet tanks
+speech,2844.25,2851.3,1.0,1.0,scarlets got a new cd coming out soon so let's have a look at the best way we can promote it in france okay
+speech,2851.89,2857.3,0.6739601492881775,0.6739600896835327,i think scarlett should visit the major music stores in my opinion that's the best way to meet or fans
+speech,2858.25,2862.3,1.0,1.0,sure what do you think jack actually i don't agree with mark
+speech,2863.25,2867.3,0.9999823570251465,0.9998353719711304,scarlett
+speech,2868.25,2869.3,0.9426679611206055,0.922759473323822,scarlett
+speech,2870.25,2871.3,0.9997532963752747,0.9989103078842163,i agree with jacques
+speech,2871.57,2874.3,0.6179258823394775,0.6116089820861816,i don't have a commercial image it isn't my style
+speech,2875.25,2885.3,1.0,1.0,scarlett needs more publicity what about a series of tv and radio interviews don't you agree yes but that's what everybody does what we want something different
+speech,2886.25,2892.3,0.9941898584365845,0.983238697052002,
+speech,2893.25,2896.3,0.8171795606613159,0.7965227365493774,jay player favorite music
+speech,2897.25,2905.3,0.7499145865440369,0.7234435081481934,
+speech,2906.25,2909.3,0.9997181296348572,0.9988896250724792,scarlett
+speech,2910.25,2911.3,0.9860931038856506,0.9739105701446533,the thing
+speech,2917.25,2919.3,0.929932713508606,0.8871857523918152,that's a great idea
+speech,2920.25,2921.3,0.9962932467460632,0.9882725477218628,thank you jack
+speech,2925.25,2955.3,0.988241970539093,0.9702778458595276,
+speech,2956.25,2973.3,0.949080765247345,0.9193658232688904,
+speech,2974.25,2980.3,1.0,1.0,
+speech,2981.25,2983.3,1.0,1.0,
+speech,2984.25,2996.3,0.9255112409591675,0.8831884264945984,my opinion she's the managing director of a music company how hot she lives in paris she's in love with their marketing director and she has a lot of fun tell him what to do it's really unfair
+speech,2996.89,2999.3,0.663684070110321,0.6636841297149658,we're not the office now you can't tell me i'm wrong
+speech,3000.25,3008.61,0.9999949932098389,0.9999067783355713,
+speech,3009.25,3011.3,0.9999958276748657,0.9998672008514404,seen as was cut out here come on
+speech,3015.25,3023.61,0.83961421251297,0.8280840516090393,
+speech,3024.25,3025.3,0.9451104998588562,0.9124170541763306,and
+speech,3026.25,3028.3,0.9879027009010315,0.9676559567451477,in the loop together
+speech,3028.57,3032.3,0.6742846965789795,0.6627325415611267,was that
+speech,3034.25,3068.3,1.0,1.0,i think they didn't see each other ever since mac arrived or maybe even before that's incredible what makes you say that whatever to look at max new apartment i'm sure i'll call him on his mobile and i've seen how looking at team certain way i quite everyone smock
+speech,3071.25,3072.3,0.782075822353363,0.7283698916435242,hi
+speech,3073.57,3074.3,0.6547098159790039,0.6479003429412842,
+speech,3085.25,3086.3,0.9905114769935608,0.980699896812439,the year all
+speech,3086.57,3095.3,0.6334210634231567,0.6227940320968628,from the u s a
+speech,3095.57,3097.3,0.6810348033905029,0.669640839099884,
+speech,3098.25,3102.3,0.9816638231277466,0.9586484432220459,yes fine
+speech,3103.25,3126.3,1.0,1.0,on your own
+speech,3127.25,3128.3,0.9493560791015625,0.9029159545898438,yeah
+speech,3129.25,3136.3,0.999995231628418,0.9999033212661743,kind of prefer going to museums and galleries on my own you can look at everything in your own pace that's funny
+speech,3137.25,3140.3,1.0,0.9999997019767761,went to the move on saturday to really
+speech,3141.25,3146.3,1.0,1.0,i didn't see you either
+speech,3148.25,3148.61,0.6322475671768188,0.6322476267814636,
+speech,3148.89,3149.3,0.653843879699707,0.6538437604904175,
+speech,3152.25,3155.3,0.9667215347290039,0.9299644231796265,
+speech,3157.25,3158.3,0.8001962900161743,0.7553331851959229,
+speech,3159.25,3160.3,0.9948557615280151,0.9837530255317688,me too
+speech,3162.25,3170.3,0.9960410594940186,0.991579532623291,gm mark thank you for all the information and thank you darling for a wonderful weekend alley
+speech,3180.25,3185.3,0.7448905110359192,0.7214093804359436,
+speech,3196.25,3208.3,1.0,1.0,now you're joking
+speech,3208.57,3216.3,0.7220245003700256,0.7034004926681519,oh mark i'm so sorry i did it without thinking it's all right now it's an easy mistake to make her going to be so stupid
+speech,3217.25,3219.3,0.9999998807907104,0.9999967813491821,wasn't concentrating our
+speech,3220.25,3227.9300000000003,1.0,1.0,
+speech,3228.25,3229.3,1.0,1.0,was my fault
+speech,3232.25,3234.3,0.998791515827179,0.9958213567733765,listen everybody
+speech,3235.25,3240.3,0.8971568942070007,0.8324344158172607,
+speech,3241.25,3250.3,0.9828774929046631,0.9737257361412048,
+speech,3260.25,3287.3,0.9737004041671753,0.9477176070213318,how
+speech,3288.25,3292.3,1.0,0.9999972581863403,french they're experts are in love affairs maybe
+speech,3293.25,3298.3,1.0,1.0,i think it's great that everyone knows now we don't have to pretend anymore yeah that's too
+speech,3300.25,3301.3,0.9311926364898682,0.8725630044937134,allie
+speech,3302.25,3306.3,1.0,1.0,i just haven't said anything
+speech,3307.25,3309.3,1.0,0.9999992847442627,but it's now or never
+speech,3310.25,3311.3,0.9121040105819702,0.8827953934669495,ali
+speech,3312.25,3313.3,0.8413984775543213,0.8257661461830139,well
+speech,3316.25,3319.3,0.9994074106216431,0.9952433109283447,
+speech,3320.25,3321.3,0.9986528158187866,0.9950147867202759,i said
+speech,3322.25,3324.3,0.9862815737724304,0.9668295979499817,
+speech,3326.25,3327.3,0.9701520800590515,0.9471787214279175,
+speech,3330.25,3332.3,0.9790313839912415,0.9655001163482666,yes yes
+speech,3337.25,3342.3,0.9998693466186523,0.9986026287078857,confirm that in an email for me just don't send it to everyone in the office this time
+speech,3346.25,3355.3,0.9992658495903015,0.9976541996002197,
+speech,3356.25,3357.3,0.9924929738044739,0.9766139388084412,they are
+speech,3358.25,3365.3,0.9955543875694275,0.9858314990997314,tents for this one chew remit remember chicken or teacher okay usually
+speech,3365.57,3366.3,0.6317920684814453,0.6210312843322754,ah
+speech,3367.25,3376.3,0.9121338129043579,0.9016544222831726,for about eighty or ninety percent when you see c h to gather it will be brewed now was like
+speech,3377.25,3380.3,0.7890204191207886,0.7719137072563171,okay so cheap
+speech,3381.25,3393.3,0.9297395944595337,0.9119921326637268,she this one t sure to check her wage which out i remember th chan
+speech,3395.25,3397.3,0.959094762802124,0.9490023851394653,cheap cheap
+speech,3398.25,3401.3,0.9962512850761414,0.9883664846420288,sure t teacher
